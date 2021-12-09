@@ -1,0 +1,110 @@
+/*=========================
+	FONT COLOR
+=========================
+.activity-meta > h6 a,
+.activity-meta > span a:hover,
+.sidebar .widget li:hover > a, .sidebar .widget li:hover > i,
+
+.friend-meta > a,
+.user-setting > a:hover,
+
+.page-meta > a,
+
+
+#work > div a,
+.basics > li i,
+.education > li i,
+.groups > span i,
+a.forgot-pwd,
+.friend-meta > h4 a:hover,
+.x_title > h2,
+.post-meta .detail > span,
+
+.top-area > ul.main-menu > li > ul li a:hover,
+.dropdowns.active > a i,
+.user-setting > a i,
+.form-group input.form-file ~ .control-label,
+.form-group input.has-value ~ .control-label,
+.form-group input:focus ~ .control-label,
+.form-group input:valid ~ .control-label,
+.form-group select ~ .control-label,
+.form-group textarea.form-file ~ .control-label,
+.form-group textarea.has-value ~ .control-label,
+.form-group textarea:focus ~ .control-label,
+.form-group textarea:valid ~ .control-label,
+.flaged > h3,
+.invition .friend-meta a.invite:hover,
+.more-optns > ul li:hover,
+.post-title > h4 a:hover,
+.post-title .p-date a:hover,
+.l-post .l-post-meta > h4 a:hover,
+.read:hover,
+blockquote,
+.tags > a:hover,
+.comment-titles > span,
+.help-list > ul li a:hover i,
+.open-position > h4 a:hover,
+.option-set.icon-style > li > a.selected,
+.category-box > i,
+.getquot-baner > a,
+.branches-box > ul li i,
+.help-topic-result > h2 a:hover,
+.product-name > h5 a:hover,
+.full-postmeta .shopnow,
+.prices.style2 ins span,
+.single-btn > li > a.active,
+.total-box > ul > li.final-total,
+.logout-meta > p a,
+.forum-list table tbody tr td i,
+.forum-list table tbody tr td a,
+.widget ul.recent-topics > li > i,
+{
+	color: #a9058e;
+}
+*/
+/*=========================
+	BACKGROUND COLOR
+=========================
+#nprogress .bar,
+a.underline:before,
+.color-bg,
+a.dislike-btn,
+.drop > a:hover,
+.btn-view.btn-load-more:hover,
+.chat-head,
+.f-page > figure em,
+.inbox-panel-head > ul > li > a,
+#topcontrol,
+
+.g-post-classic > figure > i::after,
+
+.info > a,
+.category-box:hover, .category-box.selected,
+a.main-btn,
+a.btn2:hover,
+.form-submit > input[type="submit"],
+.apply-bttons > a
+{
+	background: #a9058e;
+}
+*/
+/* previous color code: #088dcd;*/
+
+
+/*=========================
+	BORDER COLOR
+=========================
+.topbar .form-search input:focus,
+.colla-apps > li a:hover,
+.top-area > ul.main-menu > li ul,
+.g-post-classic:hover > figure > i,
+a.btn2:hover,
+.single-btn > li > a.active
+{
+	border-color: #088dcd;
+}
+
+.timeline-info > ul li a:after{
+	border-bottom-color: #088dcd;
+}
+*/
